@@ -88,7 +88,7 @@ For data ingestion, using Databricks Auto Loader. It's a tool that automatically
 #### Successfully Running the Pipeline
 
 <p align="center">
-  <img width="600" src="https://github.com/nogibjj/IDS-Week11_MiniProject_us26/blob/main/images/7.png" alt="schema">
+  <img width="600" src="https://github.com/nogibjj/IDS706-Individual_Project_3_us26/blob/main/images/pipeline.png" alt="schema">
 </p>
 
 
