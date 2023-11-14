@@ -1,7 +1,7 @@
 ## Databricks ETL (Extract Transform Load) Pipeline
 
 <p align="center">
-  <img width="600" src="https://github.com/nogibjj/IDS-Week11_MiniProject_us26/blob/main/images/etl-process-image.png" alt="schema">
+  <img width="600" src="https://github.com/nogibjj/IDS706-Individual_Project_3_us26/blob/main/images/etl-process-image.png" alt="schema">
 </p>
 
 **ETL Process Overview**
